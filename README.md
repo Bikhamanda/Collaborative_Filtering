@@ -1,4 +1,4 @@
-# Modul-3_Machine_Learning
+### Collaborative Filtering
 
 Source datasets from Kaggle:
 
